@@ -1,7 +1,7 @@
----
+﻿---
 layout: default
 ---
 
 ## Hello there.
-⋅⋅⋅Content to be added soon.⋅⋅
-⋅⋅⋅Why don't you take a stop [here](https://discord.gg/6ZeTfUe)⋅⋅
+I'll be adding content here soon, after a long time of negligence.
+But, I don't know when.
